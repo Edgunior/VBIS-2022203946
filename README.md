@@ -1,6 +1,8 @@
 # VBIS-2022203946
 Projekat iz predmeta VBIS
 
+php -S localhost:8000 -t public/
+
 XAMPP Setup
 Apache -> Config -> Apache (httpd.conf) -> DocumentRoot
 
@@ -8,7 +10,7 @@ Apache -> Config -> Apache (httpd.conf) -> DocumentRoot
 
 
 
-SQL - Query
+SQL - Query (For Testing)
 
 
 
