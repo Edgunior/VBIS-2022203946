@@ -1,5 +1,13 @@
 # VBIS-2022203946
 Projekat iz predmeta VBIS
+
+XAMPP Setup
+Apache -> Config -> Apache (httpd.conf) -> DocumentRoot
+
+
+
+
+
 SQL - Query
 
 
